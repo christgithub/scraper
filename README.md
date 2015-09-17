@@ -15,9 +15,8 @@ Requires Symfony 2.7
 
 Create new project by dowloading symfony
 http://symfony.com/doc/current/book/installation.html
- 
-Install the SainsburysScraperBundle
 
+Update the project folders and files with the Scraper project from GitHub   
 Run composer install at the project root to install the dependancies defined in composer.json
 
 Manual run
