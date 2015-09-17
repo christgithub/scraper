@@ -1,0 +1,7 @@
+sainsburys_scraper:
+    resource: "@SainsburysScraperBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

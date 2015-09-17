@@ -1,0 +1,3 @@
+sainsburys_scraper_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: SainsburysScraperBundle:Default:index }
